@@ -30,13 +30,7 @@ function mousePressed(){
   boxes.push(
     /*ESCOLHA UM DOS CÓDIGOS DE NEW BOX ONDE UMA CAIXA NOVA SURGE NA POSIÇÃO QUANDO CLICADO COM O MOUSE E RETIRE O "//" DELE */
 
-    //new Box(50,50,50,50);
-    
-    //new Box(mouseX,mouseY,50,50);
-
-    //new Box(50,50,mouseX,mouseY);
-    
-    //new Box(mouseY,mouseX,50,50); 
+    new Box(mouseY,mouseX,50,50); 
     
     )
 }
