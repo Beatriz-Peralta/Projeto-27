@@ -1,6 +1,6 @@
 /*ESCOLHA UM DOS CÓDIGOS DE CRIAR UMA CLASSE CORRETAMENTE E RETIRE O "//" DELE */
 
- class Bow
+ class Box
 
 {
   constructor(x, y, w, h) 
